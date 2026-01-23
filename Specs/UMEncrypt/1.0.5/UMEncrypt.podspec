@@ -35,6 +35,6 @@ TODO: Add long description of the pod here.
   s.source           = { :http => 'http://docs.kdzn.top/pod/umencrypt/1.0.5/umencrypt.zip' }
   s.vendored_frameworks = "*.framework"
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '13.0'
   
 end
